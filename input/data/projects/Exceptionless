@@ -1,0 +1,16 @@
+Source: https://github.com/exceptionless/Exceptionless
+NuGet:
+  - https://www.nuget.org/profiles/exceptionless
+Language: C#
+Image: https://secure.gravatar.com/avatar/d5c0d6f353b6fe3b18c7a5f82ad46153?s=512&r=g&d=retro
+Title: Exceptionless
+Description: The definition of the word exceptionless is: to be without exception. Exceptionless provides real-time error reporting for your JavaScript, Node, .NET Core, ASP.NET, Web API, WebForms, WPF, Console, and MVC apps. It organizes the gathered information into simple actionable data that will help your app become exceptionless!
+Website: https://exceptionless.com/
+Docs: https://github.com/exceptionless/Exceptionless/wiki
+Chat: https://slack.exceptionless.com/
+Twitter: Exceptionless
+Tags:
+  - Error Handling
+  - Logging
+  - Monitoring
+  - Reporting
