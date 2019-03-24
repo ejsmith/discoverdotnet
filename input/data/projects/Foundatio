@@ -1,0 +1,14 @@
+Source: https://github.com/foundatiofx/
+NuGet:
+  - https://www.nuget.org/packages?q=foundatio
+Language: C#
+Image: https://avatars1.githubusercontent.com/u/29487246?s=200&v=4
+Title: Foundatio
+Description: Pluggable foundation blocks for building distributed apps in .NET
+Chat: https://slack.exceptionless.com/
+Tags:
+  - Distributed Computing
+  - Application Framework
+  - Caching
+  - Messaging
+  - Services
